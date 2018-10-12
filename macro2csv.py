@@ -1,5 +1,5 @@
 #Python3 support
-#macro2csv 0.2.2 beta
+#macro2csv 0.3.3 beta
 
 #setting
 class pycolor:
